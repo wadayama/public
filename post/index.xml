@@ -6,10 +6,30 @@
     <description>Recent content in Posts on Taadshi Wadayama</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Thu, 10 Jan 2019 22:09:13 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jan 2019 18:42:36 +0900</lastBuildDate>
     
 	<atom:link href="https://wadayama.github.io/public/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fourth</title>
+      <link>https://wadayama.github.io/public/post/fourth/</link>
+      <pubDate>Mon, 14 Jan 2019 18:42:36 +0900</pubDate>
+      
+      <guid>https://wadayama.github.io/public/post/fourth/</guid>
+      <description>Taadshi Wadayama
+Email: wadayama@nitech.ac.jp Professor, Nagoya Institute of Technology Reserch interests: Coding Theory, Information Theory, Wireless Communications, Deep Learning</description>
+    </item>
+    
+    <item>
+      <title>Third</title>
+      <link>https://wadayama.github.io/public/post/third/</link>
+      <pubDate>Mon, 14 Jan 2019 18:42:26 +0900</pubDate>
+      
+      <guid>https://wadayama.github.io/public/post/third/</guid>
+      <description>hogehoge hogehoge
+we are hogehoge</description>
+    </item>
     
     <item>
       <title>Second post</title>

@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://wadayama.github.io/public/post/fourth/</loc>
+    <lastmod>2019-01-14T18:42:36+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wadayama.github.io/public/post/third/</loc>
+    <lastmod>2019-01-14T18:42:26+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://wadayama.github.io/public/post/fisecond/</loc>
     <lastmod>2019-01-10T22:09:13+09:00</lastmod>
   </url>
@@ -19,13 +29,13 @@
   
   <url>
     <loc>https://wadayama.github.io/public/post/</loc>
-    <lastmod>2019-01-10T22:09:13+09:00</lastmod>
+    <lastmod>2019-01-14T18:42:36+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://wadayama.github.io/public/</loc>
-    <lastmod>2019-01-10T22:09:13+09:00</lastmod>
+    <lastmod>2019-01-14T18:42:36+09:00</lastmod>
     <priority>0</priority>
   </url>
   
